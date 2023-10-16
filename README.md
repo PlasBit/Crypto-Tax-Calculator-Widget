@@ -45,4 +45,4 @@ Copying the code to your website is straightforward!
 
 Discover a wide range of customization options on our official site:
 
-🌐 [PlasBit Widgets](https://www.plasbit.com/widgets)
+🌐 [PlasBit Widgets](https://plasbit.com/widgets/crypto-tax-calculator)
